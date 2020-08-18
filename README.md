@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [a web-based Tic-Tac-Toe inspired strategy game](https://github.com/AndrewBredar/TicTacToe)
 
-- 🌱 I’m currently learning **about Data Science & Analysis through Google Bigquery as well as web development frameworks and tools like Node.js**
+- 🌱 I’m currently learning **about data science & analysis through Google Bigquery as well as web development frameworks and tools**
 
 - 👯 I’m looking to collaborate on **with other students and professionals on interesting projects**
 
 - 💬 Ask me about **my favorite stand-up comedians**
 
-- 📫 How to reach me **abredar@scu.edu**
+- 📫 Reach me at **abredar@scu.edu**
 
-- ⚡ Fun fact **I lived in Brazil for one year and can speak Portuguese (Tudo bem?!)**
+- ⚡ Fun fact **I lived in Brazil for one year where I learned to speak Portuguese (Tudo bem?!)**
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing-feature-git-master.andrewbredar.vercel.app/api/spotify-playing" alt="Andy is listening to..." width="350" />](https://open.spotify.com/user/1264553168)
