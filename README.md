@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my favorite stand-up comedians**
 
-- 📫 Reach me at **abredar@scu.edu**
+- 📫 Reach me at **abredar@scu.edu** or [LinkedIn](https://linkedin.com/in/andrew-bredar/]
 
 - ⚡ Fun fact **I lived in Brazil for one year where I learned to speak Portuguese (Tudo bem?!)**
 
